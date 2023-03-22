@@ -1,0 +1,7 @@
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\bin\Debug\SoftwareDesignPatterns.exe.config
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\bin\Debug\SoftwareDesignPatterns.exe
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\bin\Debug\SoftwareDesignPatterns.pdb
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\obj\Debug\SoftwareDesignPatterns.csprojAssemblyReference.cache
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\obj\Debug\SoftwareDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\obj\Debug\SoftwareDesignPatterns.exe
+C:\Users\jaya-pc\Repos\DesignPatterns\SoftwareDesignPatterns\SoftwareDesignPatterns\obj\Debug\SoftwareDesignPatterns.pdb
